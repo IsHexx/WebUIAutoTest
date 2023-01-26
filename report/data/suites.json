@@ -1,0 +1,221 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_table",
+      "children" : [ {
+        "name" : "Testtable",
+        "children" : [ {
+          "name" : "test_table_01[data0]",
+          "uid" : "b7c52c52f9b97bee",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674704980044,
+            "stop" : 1674705025870,
+            "duration" : 45826
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例1', '杨过', None, None]" ]
+        }, {
+          "name" : "test_table_01[data1]",
+          "uid" : "2724b43535329a56",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705029219,
+            "stop" : 1674705069531,
+            "duration" : 40312
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例2', '郭襄', None, None]" ]
+        }, {
+          "name" : "test_table_01[data2]",
+          "uid" : "dabbeda76889552c",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705072871,
+            "stop" : 1674705114576,
+            "duration" : 41705
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例3', '小龙女', None, None]" ]
+        }, {
+          "name" : "test_table_01[data3]",
+          "uid" : "dc35344866512179",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705117934,
+            "stop" : 1674705157804,
+            "duration" : 39870
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例4', '金轮法王', None, None]" ]
+        }, {
+          "name" : "test_table_01[data4]",
+          "uid" : "18d67fd4a2dd5e61",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705161146,
+            "stop" : 1674705202340,
+            "duration" : 41194
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例5', '古三通', None, None]" ]
+        }, {
+          "name" : "test_table_01[data5]",
+          "uid" : "7af34a8b1a193d55",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705205688,
+            "stop" : 1674705245368,
+            "duration" : 39680
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例6', '一灯大师', None, None]" ]
+        }, {
+          "name" : "test_table_01[data6]",
+          "uid" : "d3ba5a3b870ea5aa",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705248716,
+            "stop" : 1674705319485,
+            "duration" : 70769
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例7', '裘千仞', None, None]" ]
+        }, {
+          "name" : "test_table_01[data7]",
+          "uid" : "e224bdcdc2cf56ac",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705322840,
+            "stop" : 1674705363177,
+            "duration" : 40337
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例8', '霍都', None, None]" ]
+        }, {
+          "name" : "test_table_01[data8]",
+          "uid" : "4e4724cab4c77703",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705366523,
+            "stop" : 1674705406448,
+            "duration" : 39925
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例9', '李莫愁', None, None]" ]
+        }, {
+          "name" : "test_table_01[data9]",
+          "uid" : "bb42fd1f2cce6de5",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705409801,
+            "stop" : 1674705449970,
+            "duration" : 40169
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例10', '王重阳', None, None]" ]
+        }, {
+          "name" : "test_table_01[data10]",
+          "uid" : "c2b95b315d966868",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705453310,
+            "stop" : 1674705493324,
+            "duration" : 40014
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例11', '郭芙', None, None]" ]
+        }, {
+          "name" : "test_table_01[data11]",
+          "uid" : "e3ad139621622288",
+          "parentUid" : "ac6b54dca84210e919619084c2363327",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674705496702,
+            "stop" : 1674705542727,
+            "duration" : 46025
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "['示例12', '耶律齐', None, None]" ]
+        } ],
+        "uid" : "ac6b54dca84210e919619084c2363327"
+      } ],
+      "uid" : "bad5098a7828a23a810d365e587b7abd"
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

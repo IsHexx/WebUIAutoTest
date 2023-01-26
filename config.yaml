@@ -1,0 +1,24 @@
+##浏览器选择(不区分大小写，谷歌浏览器：Chrome；火狐浏览器：Firefox；IE浏览器:Ie)
+browser:
+    browser_name: Chrome
+
+#全局基本路径和被测项目地址
+url:
+    ui_test_url: https://www.so.com/ #UI被测项目地址
+
+#全局日志格式设置（分别为日志文件前缀，文件日志级别，文件日志格式，控制台日志级别，控制台日志格式）日志级别共五级（不区分大小写，默认为INFO）：DEBUG,INFO,WARNING,ERROR,CRITICAL
+log:
+    log_name: log_
+    file_log_level: info
+    file_log_format: '[%(asctime)s] %(filename)s->%(funcName)s line:%(lineno)d [%(levelname)s] %(message)s'
+    console_log_level: info
+    console_log_format: '[%(asctime)s] %(filename)s->%(funcName)s line:%(lineno)d [%(levelname)s] %(message)s'
+
+#全局框架报告设置（报告文件名称设置）
+report:
+    report_name: report_
+
+#UI：前端登录默认的用户名和密码
+default_login:
+    username:
+    password:

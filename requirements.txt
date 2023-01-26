@@ -1,0 +1,10 @@
+pytest
+pytest-html
+pytest-xdist
+pytest-rerunfailures
+pytest-ordering
+allure-pytest
+PyYAML
+selenium
+requests
+openpyxl

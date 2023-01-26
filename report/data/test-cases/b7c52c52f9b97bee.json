@@ -1,0 +1,115 @@
+{
+  "uid" : "b7c52c52f9b97bee",
+  "name" : "test_table_01[data0]",
+  "fullName" : "TestCase.test_table.Testtable#test_table_01",
+  "historyId" : "b4f57c596b842e2b65e9b3618a0f07c4",
+  "time" : {
+    "start" : 1674704980044,
+    "stop" : 1674705025870,
+    "duration" : 45826
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "beginandend",
+    "time" : {
+      "start" : 1674704978305,
+      "stop" : 1674704980042,
+      "duration" : 1737
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "44b179bef90a30a2",
+      "name" : "log",
+      "source" : "44b179bef90a30a2.txt",
+      "type" : "text/plain",
+      "size" : 151
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "beginandend::0",
+    "time" : {
+      "start" : 1674705025870,
+      "stop" : 1674705027969,
+      "duration" : 2099
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试360搜索"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('beginandend')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_table"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testtable"
+  }, {
+    "name" : "host",
+    "value" : "LS-701585"
+  }, {
+    "name" : "thread",
+    "value" : "9836-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "['示例1', '杨过', None, None]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('beginandend')" ]
+  },
+  "source" : "b7c52c52f9b97bee.json",
+  "parameterValues" : [ "['示例1', '杨过', None, None]" ]
+}
