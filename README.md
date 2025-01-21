@@ -1,6 +1,7 @@
 ## 项目概述
 
-`WebUIAutoTest` 是一个基于 `Selenium + Pytest + POM`（页面对象模型）搭建的 Web UI 自动化测试框架。该框架旨在提供一个可维护、可扩展且易于使用的自动化测试解决方案，以帮助开发团队和测试人员更高效地进行 Web UI 的自动化测试工作。## 目录结构
+`WebUIAutoTest` 是一个基于 `Selenium + Pytest + POM`（页面对象模型）搭建的 Web UI 自动化测试框架。该框架旨在提供一个可维护、可扩展且易于使用的自动化测试解决方案，以帮助开发团队和测试人员更高效地进行 Web UI 的自动化测试工作。
+## 目录结构
 
 以下是本仓库的主要目录结构：
 
@@ -34,17 +35,17 @@ WebUIAutoTest/
 ### 1. 克隆仓库
 
 首先，将本仓库克隆到本地：
-收起sh
+
 
 ```sh
-git clone <仓库地址>
+git clone (https://github.com/IsHexx/WebUIAutoTest.git)
 cd WebUIAutoTest
 ```
 
 ### 2. 安装依赖
 
 安装 `requirements.txt` 文件中列出的所有依赖库：
-收起sh
+
 
 ```sh
 pip install -r requirements.txt
@@ -55,7 +56,7 @@ pip install -r requirements.txt
 根据需要修改 `config.yaml` 文件中的配置信息，如测试环境的 URL、浏览器类型等。### 4. 运行测试
 
 运行 `run_test.py` 文件启动测试：
-收起sh
+
 
 ```sh
 python run_test.py
