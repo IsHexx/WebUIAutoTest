@@ -38,7 +38,7 @@ WebUIAutoTest/
 
 
 ```sh
-git clone (https://github.com/IsHexx/WebUIAutoTest.git)
+git clone https://github.com/IsHexx/WebUIAutoTest.git
 cd WebUIAutoTest
 ```
 
@@ -53,7 +53,9 @@ pip install -r requirements.txt
 
 ### 3. 配置文件
 
-根据需要修改 `config.yaml` 文件中的配置信息，如测试环境的 URL、浏览器类型等。### 4. 运行测试
+根据需要修改 `config.yaml` 文件中的配置信息，如测试环境的 URL、浏览器类型等。
+
+### 4. 运行测试
 
 运行 `run_test.py` 文件启动测试：
 
